@@ -263,7 +263,7 @@ This Streamlit Web Application has been designed for **Supply Chain Professional
 ## **Load the data** ##
 
 - You can use the dataset located in the folder: 
- [in/df_lines.csv](https://git.syngentaaws.org/partho_choudhury/picking-route/-/blob/main/static/in/df_lines.csv)
+ [in/df_lines.csv](https://github.com/ianthropos88/route_picker/blob/main/static/in/df_lines.csv)
 - You can build your own dataset following the step of ('Initial Step') above.
 
 ## 🔬 Experiment 1 ##
